@@ -14,11 +14,13 @@ Here you can find the C++ application EP-sim with some examples.
 EP-sim is based on the library SEQAN
 
 Run EP-sim using the command:
+
 ep_sim FastaFile OutputFile -D D2* -L k -P 7 -B 1
 
 Using the input sequences contained in "FastaFile" EP-sim computes the statistics EP*2 for all pairs of sequences in the input file, and outputs the results in "OutputFile" as matrix of scores. The length of patterns used is up to k, with variance 0.7 and a background Markov model of order 1.
 
 To run the example included type:
+
 ./ep_sim EbolaMixedGuinea.fasta ebolamix_l5_b1_EP2s.txt -D D2* -L 5 -P 7 -B 1 -F -R > junk.txt
 
 
@@ -31,6 +33,7 @@ For questions about the tool, please contact Matteo Comin or Morris Antonello .
 Reference
 
 Please cite the following papers:
+
 M. Comin, M. Antonello
 "On the comparison of regulatory sequences with multiple resolution Entropic Profiles"
 Accepted in BMC Bioinformatics, 2016. Pdf
