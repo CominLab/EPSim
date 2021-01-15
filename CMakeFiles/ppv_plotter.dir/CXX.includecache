@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ciompin/PairwiseEP/master_thesis/src/ppv_plotter.cpp
+dirent.h
+-
+errno.h
+-
+vector
+-
+string
+-
+sstream
+-
+iostream
+-
+fstream
+-
+numeric
+-
+stdlib.h
+-
+map
+-
+

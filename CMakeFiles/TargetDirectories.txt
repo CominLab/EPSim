@@ -1,0 +1,6 @@
+/home/ciompin/PairwiseEP/master_thesis/CMakeFiles/Thesis.dir
+/home/ciompin/PairwiseEP/master_thesis/CMakeFiles/ep_sim.dir
+/home/ciompin/PairwiseEP/master_thesis/CMakeFiles/ppv_compare.dir
+/home/ciompin/PairwiseEP/master_thesis/CMakeFiles/ppv_plotter.dir
+/home/ciompin/PairwiseEP/master_thesis/CMakeFiles/real_seq.dir
+/home/ciompin/PairwiseEP/master_thesis/CMakeFiles/seq_splitter.dir

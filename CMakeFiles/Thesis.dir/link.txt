@@ -1,0 +1,2 @@
+/usr/bin/ar cr lib/libThesis.a  CMakeFiles/Thesis.dir/src/stat_models.cpp.o CMakeFiles/Thesis.dir/src/kernel_gen.cpp.o CMakeFiles/Thesis.dir/src/entropies.cpp.o CMakeFiles/Thesis.dir/src/score_filler.cpp.o
+/usr/bin/ranlib lib/libThesis.a
