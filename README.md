@@ -36,7 +36,7 @@ Please cite the following papers:
 
 M. Comin, M. Antonello
 "On the comparison of regulatory sequences with multiple resolution Entropic Profiles"
-Accepted in BMC Bioinformatics, 2016. Pdf
+BMC Bioinformatics 2016, 17:130
 
  
 
